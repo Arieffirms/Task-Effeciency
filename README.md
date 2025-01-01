@@ -31,7 +31,7 @@ Clone repository menggunakan Git dan navigasi direktori proyek
 Jalankan perintah berikut untuk memastikan semua dependensi terpasang:
 
 ```bash
-  git pub get
+  flutter pub get
 ```
 
 **3. Jalankan Aplikasi**
